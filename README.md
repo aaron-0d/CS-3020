@@ -1,1 +1,1 @@
-This is a repository for CS 3020 homework/project files. 
+This is a repository forthe CS 3020 Midterm.
